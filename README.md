@@ -3,7 +3,7 @@
 
 ## 🤝 Como contribuir en este proyecto:
 #### 1. Fork
-#### 2. git clone https://github.com/RotrixxLOL/RetixLeaks
+#### 2. git clone https://github.com/RotrixxLOL/pwa_weather_app.git
 #### 3. git checkout -b "nombre-de-la-rama"
 #### 4. Haz tus modificaciones
 #### 5. git add .
